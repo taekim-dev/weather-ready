@@ -14,6 +14,8 @@ The main goal is to showcase modern React.js practices. This project focuses str
 - Testing
 - Other common React techniques
 
+- Design Patterns: Container vs. Presentational Components (also known as Smart vs. Dumb components)
+
 ## 🚀 Getting Started
 
 1. Clone the repository.
