@@ -1,6 +1,6 @@
 /**
  * Component: App
- * Description: Main container that possibly manages routes or major app layouts.
+ * Description: Main container that manages routes or major app layouts.
  * Responsible: Person A
  */
 
