@@ -5,7 +5,6 @@
  */
 
 function sampleUtilityFunctionToMerge(){
-
     let conflictVariable = "main";
 
     console.log(conflictVariable);
