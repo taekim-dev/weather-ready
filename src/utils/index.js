@@ -15,7 +15,3 @@ function sampleUtilityFunctionToMerge(){
 
 
 }
-
-function newFunction(){
-    return null;
-}
