@@ -7,7 +7,7 @@
 function sampleUtilityFunctionToMerge(){
 
     let conflictVariable = "conflict Resolved";
-    
+    let addFastForward = "fast forward";
     console.log(conflictVariable);
 
     return null;
