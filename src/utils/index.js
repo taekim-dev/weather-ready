@@ -5,9 +5,12 @@
  */
 
 function sampleUtilityFunctionToMerge(){
-    let conflictVariable = "main";
 
+    let conflictVariable = "conflict Resolved";
+    
     console.log(conflictVariable);
 
     return null;
+
+
 }
